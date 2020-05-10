@@ -1,5 +1,4 @@
-from django.shortcuts import render
 
 
-def listperson(reqest):
-    pass
+def listperson(request):
+    return None
