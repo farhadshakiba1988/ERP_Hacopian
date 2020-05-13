@@ -1,6 +1,6 @@
 from django.contrib import admin
-
 from internal.models import *
+from internal.models.placeType import PlaceType
 
 admin.site.register(PersonType)
 admin.site.register(Country)
